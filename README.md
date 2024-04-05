@@ -1,0 +1,4 @@
+IMAD Assignment 1 Essay
+The purpose of the app I coded was essentially to compare the user’s age to that of a famous historical figure. It can interactively educate and or inspire the user with the interesting facts and information.
+ When designing the user interface, I considered that it must be inclusive of people from vastly different age groups. With that in mind the user interface is designed in a way that is easy to use as all the buttons, prompts and heading are written in a larger more visible font for the demographics that are visually impaired. The user interface for the ‘History Age App’ makes use of brighter colours for the buttons, a bold font for the heading/name of the app and an interesting, history themed, background to keep the user intrigued in the app. 
+To also help keep the attention of the user, some of the outputs (historical figure facts) have an added element of humour without being offensive or distasteful.
